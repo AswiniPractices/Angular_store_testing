@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "cost": 300
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode",
+      "cost": 300
+    }
+  ]
+}
